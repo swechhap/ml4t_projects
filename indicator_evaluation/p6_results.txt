@@ -1,0 +1,3 @@
+                                Cumulative Return  Standard Deviation of Daily Returns  Mean of Daily Returns
+Benchmark                                0.012300                             0.017004               0.000168
+Theoretically Optimal Strategy           5.786100                             0.004548               0.003817
